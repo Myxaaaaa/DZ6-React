@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.films {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+.film-container {
+    position: relative;
+    overflow: hidden;
+    width: 540px;
+    height: 250px;
+    transition: .8s;
+}
+
+.film-image {
+    width: 540px;
+    height: 250px;
+    object-fit: cover;
+    transition: .8s;
+}
+
+.film-container:hover .film-image {
+    opacity: 0;
+}
+
+.film-container:hover .film-info {
+    opacity: 1;
+}
+
+.react-player {
+    pointer-events: none;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    margin-top: 40px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.logoSkills {
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;;
+    text-align: center;
+}
+
+.logo {
+    width: 360px;
+    height: 360px;
+    border-radius: 25%;
+    cursor: pointer;
+    transition: .8s;
+}
+
+.logo:hover {
+    transform: scale(.9);
+}
+
+.logo:active {
+    transform: scale(1.2);
+}
+
+.logoSkills p {
+    font-size: 30px;
+    font-weight: 900;
+    background: linear-gradient( to right , #9305f1, #f81ff8, #9305f1);
+    color: transparent;
+    background-clip: text;
+}
+
+.logoSkills h2 {
+    font-size: 40px;
+    font-weight: 900;
+    background: linear-gradient(to right, #b2b257, #c9c916, #a9a967);
+    color: transparent;
+    background-clip: text;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "ref": "/playVideo/1.mp4",
+    "avatar": "https://static.okko.tv/images/v3/18844168?scale=1&quality=80"
+  },
+  {
+    "id": 2,
+    "ref": "/playVideo/2.mp4",
+    "avatar": "https://thumbs.dfs.ivi.ru/storage4/contents/4/0/376b534851e413a9f9fd7a8ce7bb44.jpg"
+  },
+  {
+    "id": 3,
+    "ref": "/playVideo/3.mp4",
+    "avatar": "https://i.ytimg.com/vi/XzPAp0NQzh0/maxresdefault.jpg"
+  },
+  {
+    "id": 4,
+    "ref": "/playVideo/4.mp4",
+    "avatar": "https://i.ytimg.com/vi/e3R8Qsr5OmY/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCinzWFrGdIE5aR1OG6JvwQ-Z0xWw"
+  }
+]
